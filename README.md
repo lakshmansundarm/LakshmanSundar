@@ -1,22 +1,23 @@
-# Hi, I'm Lakshman Sundar 👋
+# Hi, I'm Lakshmi Narayana M 👋
 
 🎓 MSc Information Technology Graduate
 
 💻 Java Full Stack Developer | Python Developer
 
-🌱 Currently learning Spring Boot, Machine Learning, and Cloud Technologies
+🌱 Learning Spring Boot, Machine Learning, and Cloud Technologies
 
-🚀 Passionate about building scalable web applications and solving real-world problems through software development.
+🚀 Passionate about building web applications and solving real-world problems through technology.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 MSc Information Technology Graduate
-- 💻 Skilled in Java, Python, SQL, and Web Development
-- 🌱 Exploring Machine Learning and Cloud Technologies
-- 🔍 Interested in Full Stack Development and Software Engineering
-- 🤝 Open to Internship and Entry-Level Software Developer Opportunities
+- 💻 Strong foundation in Java, Python, SQL, and Web Development
+- 🌱 Continuously learning modern technologies and best practices
+- 🤖 Interested in Machine Learning and Data-Driven Applications
+- 🔍 Seeking opportunities to grow as a Software Developer
+- 🤝 Open to Internship and Entry-Level Software Development Roles
 
 ---
 
@@ -40,7 +41,7 @@
 ### Database
 - MySQL
 
-### Machine Learning
+### Machine Learning & Data Science
 - Scikit-Learn
 - Pandas
 - NumPy
@@ -51,13 +52,13 @@
 ## 🚀 Featured Projects
 
 ### 🩺 Breast Cancer Prediction
-Machine Learning web application developed using Python, Streamlit, and Scikit-Learn for breast cancer diagnosis prediction.
+A Machine Learning-based web application developed using Python, Streamlit, and Scikit-Learn to assist in breast cancer diagnosis prediction.
 
 🔗 Repository:
 https://github.com/lakshmansundarm/breast-cancer-prediction
 
 ### 🛒 Amazon Seller Central
-Seller Management System developed using Java Spring MVC and MySQL.
+A Seller Management System built using Java Spring MVC and MySQL for managing products, sellers, and business operations.
 
 🔗 Repository:
 https://github.com/lakshmansundarm/amazon-seller-central
@@ -75,7 +76,7 @@ https://github.com/lakshmansundarm/amazon-seller-central
 
 ## 🎯 Career Objective
 
-Aspiring Software Developer seeking opportunities to apply and enhance my skills in Java, Python, Full Stack Development, and Machine Learning while contributing to innovative projects.
+Aspiring Software Developer with a strong interest in Full Stack Development, Java Technologies, and Machine Learning. Looking for opportunities to contribute, learn, and build impactful software solutions.
 
 ---
 
@@ -86,4 +87,4 @@ Aspiring Software Developer seeking opportunities to apply and enhance my skills
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
