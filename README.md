@@ -1,36 +1,89 @@
-# Hi, I'm Lakshmi Narayana M 👋
+# Hi, I'm Lakshman Sundar 👋
 
-🎓 M.Sc Information Technology Graduate
-💻 Java Full Stack Developer
-🌱 Learning Spring Boot, Machine Learning, and Cloud Technologies
+🎓 MSc Information Technology Graduate
 
-## Skills
+💻 Java Full Stack Developer | Python Developer
 
+🌱 Currently learning Spring Boot, Machine Learning, and Cloud Technologies
+
+🚀 Passionate about building scalable web applications and solving real-world problems through software development.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MSc Information Technology Graduate
+- 💻 Skilled in Java, Python, SQL, and Web Development
+- 🌱 Exploring Machine Learning and Cloud Technologies
+- 🔍 Interested in Full Stack Development and Software Engineering
+- 🤝 Open to Internship and Entry-Level Software Developer Opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Java
 - Python
-- SQL / MySQL
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Tools
 - Spring Boot
-- Spring MVC
-- JDBC
-- HTML, CSS, JavaScript
-- Maven
 - Streamlit
+- Git
+- GitHub
 
-## Projects
+### Database
+- MySQL
 
-### Amazon Seller Central
-Seller Management System developed using Java Spring MVC, JDBC, MySQL, JSP, and Maven.
+### Machine Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
 
-### Breast Cancer Prediction
-Machine Learning application using SVM, Random Forest, XGBoost, and Streamlit.
+---
 
-## Certifications
+## 🚀 Featured Projects
 
-- Java Full Stack Development – FITA Academy
-- Artificial Intelligence – Great Learning
-- TCS iON Career Edge – Young Professional
+### 🩺 Breast Cancer Prediction
+Machine Learning web application developed using Python, Streamlit, and Scikit-Learn for breast cancer diagnosis prediction.
 
-## Connect With Me
+🔗 Repository:
+https://github.com/lakshmansundarm/breast-cancer-prediction
 
-LinkedIn: https://www.linkedin.com/in/lakshminarayanam0702/
-Email: lakshmansundarm@gmail.com
+### 🛒 Amazon Seller Central
+Seller Management System developed using Java Spring MVC and MySQL.
+
+🔗 Repository:
+https://github.com/lakshmansundarm/amazon-seller-central
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- Machine Learning
+- Data Structures & Algorithms
+- Cloud Computing
+
+---
+
+## 🎯 Career Objective
+
+Aspiring Software Developer seeking opportunities to apply and enhance my skills in Java, Python, Full Stack Development, and Machine Learning while contributing to innovative projects.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/lakshmansundarm
+- Email: lakshmansundarm@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
